@@ -4,4 +4,4 @@
 
 # Licence 
 
-[CC0](LICENCE)
+[CC0](LICENSE)
