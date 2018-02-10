@@ -2,7 +2,7 @@
 title: Violations classiques de consentement
 ---
 
-En pratique, s'assurer du [consentement](consentement) de tout le monde peut être difficile. Cet article liste différentes manière dont le consentement peut être violé
+En pratique, s'assurer du [consentement](consentement.md) de tout le monde peut être difficile. Cet article liste différentes manière dont le consentement peut être violé
 
 
 ## Mauvaise proposition 
@@ -14,7 +14,7 @@ Une proposition qui n'a pas été exprimée n'est pas une proposition qui permet
 
 ### Proposition incomplète
 
-Si la personne qui formule la proposition omet délibérément de l'information, il s'agit de mal[honnêteté](honnetete) et la réponse à la "proposition" ne peut pas être considérée consentie.
+Si la personne qui formule la proposition omet délibérément de l'information, il s'agit de mal[honnêteté](honnetete.md) et la réponse à la "proposition" ne peut pas être considérée consentie.
 
 
 ## Consentement teinté
@@ -27,5 +27,3 @@ Prendre une décision prend du temps. Mettre pression sur une personne pour qu'e
 ### Décision sans consentement
 
 Si la décision est prise sans que la personne dont on attend le consentement n'aie répondu, il n'y a pas de consentement.
-
-<!-- #11 -->

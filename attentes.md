@@ -6,4 +6,4 @@ title: Attentes
 
 [source](https://fr.wiktionary.org/wiki/attente)
 
-Les attentes sont des [pensées](pensees-emotions-actions) conscientes ou inconscientes
+Les attentes sont des [pensées](pensees-emotions-actions.md) conscientes ou inconscientes
