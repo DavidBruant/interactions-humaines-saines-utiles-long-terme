@@ -9,10 +9,14 @@ Les principes/règles/axiomes suivants servent de guide permettant de comprendre
 - [Consentement](consentement.md)
 - [Droit à l'erreur](droit-a-l-erreur.md)
 - [Honnêteté](honnetete.md)
-- La réalité hors du contrôle des humains
-- [Pensées, émotions et actions](pensees-emotions-actions.md)
 
-Toute interaction où un.e des participant.e ne respecte pas ces principes/règles/axiomes peut être arrêtée, où à défaut, poursuivie en connaissance de cause.
+
+Ces interactions reposent sur un modèle et des définitions :
+- La réalité hors du contrôle des humains
+- [Pensées, émotions et actions](modèle/pensees-emotions-actions.md)
+- [Les attentes](modèle/attentes.md)
+
+Toute interaction où un.e des participant.e ne respecte pas ces principes/règles/axiomes peut mener à de la souffrance et peut être arrêtée, ou, à défaut, poursuivie en connaissance de cause.
 
 
 ## Saines
