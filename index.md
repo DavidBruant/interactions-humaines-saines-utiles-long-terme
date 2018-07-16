@@ -12,7 +12,7 @@ Les principes/règles/axiomes suivants servent de guide permettant de comprendre
 
 
 Ces interactions reposent sur un modèle et des définitions :
-- La réalité hors du contrôle des humains
+- [La réalité hors du contrôle des humains](modèle/réalité-hors-du-controle-des-humains/md)
 - [Pensées, émotions et actions](modèle/pensees-emotions-actions.md)
 - [Les attentes](modèle/attentes.md)
 
