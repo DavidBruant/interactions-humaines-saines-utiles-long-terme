@@ -11,3 +11,10 @@ Les attentes sont des [pensées](pensees-emotions-actions.md) conscientes ou inc
 Les attentes sont des projections de soi vers le reste du monde basé sur un mélange de connaissance et d'émotions
 
 De la souffrance peut émerger de la différence entre une attente et la réalité
+
+
+## Exemples
+
+Chaque personne a beaucoup d'attentes, constamment. A chaque pas, nous nous attendons à ce que le sol ne se dérobe pas sous nos pieds. A chaque verre d'eau, nous nous attendons à ce qu'il ne soit pas empoisonné et nous permette de vivre un peu plus longtemps
+
+Il arrive d'avoir des attentes envers d'autres personnes
