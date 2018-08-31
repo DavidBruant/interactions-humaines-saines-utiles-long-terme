@@ -20,6 +20,25 @@ Un autre objectif est de comprendre quelle règle n'a pas été respectée et a 
 [On peut commencer ici](index.md)
 
 
+## Reconnaissance
+
+Ce travail a été initié par David Bruant\
+Il est le fruit d'une réflexion personnelle influencée par d'innombrables discussions
+
+La liste exhaustive des personnes et discussions ne serait pas possible. Toutefois, David Bruant tient particulièrement à remercier les personnes suivantes pour leurs contributions : 
+- Julia Barbelane
+- Pauline Calmé
+- Romain Crestey
+- Noémie Girard
+- Clémentine Hahn
+- Mylène L'Orguilloux
+- Stéphane Langlois
+- Karine Marasligiller
+- Emie Martin
+- Daphné Matelier
+- Thomas Parisot
+
+
 ## Licence 
 
 Domaine publique - [CC0](LICENSE)
