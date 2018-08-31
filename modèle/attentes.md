@@ -10,7 +10,7 @@ Les attentes sont des [pensées](pensees-emotions-actions.md) conscientes ou inc
 
 Les attentes sont des projections de soi vers le reste du monde basé sur un mélange de connaissance et d'émotions
 
-Il est possible que toute souffrance puisse être exprimée comme la différence entre une attente et la réalité
+Jusqu'à preuve du contraire, il semblerait que toute souffrance psychologique puisse être exprimée comme la différence entre une attente et la réalité
 
 
 ## Exemples

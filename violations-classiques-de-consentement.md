@@ -2,7 +2,7 @@
 title: Violations classiques de consentement
 ---
 
-En pratique, s'assurer du [consentement](consentement.md) de tout le monde peut être difficile. Cet article liste différentes manière dont le consentement peut être violé
+En pratique, s'assurer du [consentement](./modèle/consentement.md) de tout le monde peut être difficile. Cet article liste différentes manière dont le consentement peut être violé
 
 
 ## Mauvaise proposition 
