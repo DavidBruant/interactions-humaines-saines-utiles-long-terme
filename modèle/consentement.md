@@ -11,7 +11,7 @@ Cette décision est l'expression de son consentement
 
 ## Aussi
 
-[Violations classiques de consentement](violations-classiques-de-consentement.md)
+[Violations classiques de consentement](../violations-classiques-de-consentement.md)
 
 
 ## Définition alternative
