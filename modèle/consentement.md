@@ -2,22 +2,33 @@
 title: Consentement
 ---
 
-La notion de consentement repose sur la notion de **proposition**
-
-Une proposition est faite d'une personne A vers une personne B\
-La personne A exprime à la personne B la proposition et toute information utile pour que la personne B prenne sa décision\
-La personne B prend sa décision\
-Cette décision est l'expression de son consentement
-
-## Aussi
-
-[Violations classiques de consentement](../violations-classiques-de-consentement.md)
+La définition que je choisis pour le mot "consentement" change au cours du temps
+Ce document contient sûrement ma réflexion la plus récente sur le sujet
 
 
-## Définition alternative
+## Définition actuelle
 
-Une décision est consentie si elle n'est pas regrettée plus tard
+Le consentement d'une personne est respecté si cette personne fait une chose qu'elle n'a pas envie de faire ou se retrouve dans une situation dans laquelle elle n'a pas envie pas être
 
-Cette définition a l'inconvénient d'être invérifiable sur le moment et sur le court terme\
-Cette définition a l'avantage de garder la personne qui émet la proposition en responsabilité à long terme et en écoute permanente de si le "consentement" exprimé à un moment est vraiment un consentement
+
+## Dépliage de la définition
+
+### Existence d'une envie
+
+Une personne qui n'a pas une claire conscience de ce dont elle a envie ou pas envie ne peut pas être consentante
+
+Arriver à une claire conscience de ce dont on a envie ou pas envie demande souvent du temps, de l'introspection et une bonne connaissance de soi
+
+
+### Connaissance de l'envie
+
+Personne ne peut savoir mieux que la personne elle-même ce dont elle a envie
+
+
+### Volatilité de l'envie
+
+On peut avoir envie à un moment, puis ne plus avoir envie à un autre
+Parce que le contexte a changé, 
+parce qu'on comprend mieux ce que l'on est en train de faire et on n'a plus envie, 
+parce qu'on a changé
 
