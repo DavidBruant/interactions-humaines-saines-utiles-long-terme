@@ -32,10 +32,3 @@ Parce que le contexte a changé,
 parce qu'on comprend mieux ce que l'on est en train de faire et on n'a plus envie, 
 parce qu'on a changé
 
-
-
-
-
-
-
-
